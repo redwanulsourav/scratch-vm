@@ -94,7 +94,7 @@
     "scratch-render-fonts": "1.0.0-prerelease.20210401210003",
     "scratch-semantic-release-config": "1.0.4",
     "scratch-storage": "2.0.2",
-    "scratch-svg-renderer": "0.2.0-prerelease.20210727023023",
+    "scratch-svg-renderer": "0.2.0-prerelease.20220912180225",
     "script-loader": "0.7.2",
     "stats.js": "0.17.0",
     "tap": "16.2.0",
